@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SongJohan
-- 💻 Programming on **Java**
-- 🌱 I’m currently learning **C++**
+- 🏫 Currently studying at the University of Waterloo
 - 📫 Reach me at song.johan.2007@gmail.com
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/they
 
 <!---
 SongJohan/SongJohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
